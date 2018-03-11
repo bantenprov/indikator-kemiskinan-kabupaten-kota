@@ -5,25 +5,29 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Penyelesaian Tindak Pidana POLDA Kabupaten Pandeglang",
+      "title": "Garis Kemiskinan(Rupiah/Kapita/Bulan) September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          6.33,
-          6.38,
-          6.43,
-          6.44,
-          6.45,
-          6.50
+          237111,
+          219177,
+          351789,
+          223190,
+          421554,
+          306253,
+          242977,
+          401696
         ]
       }
     ]
@@ -31,27 +35,65 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kabupaten Lebak",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Jumlah Penduduk Miskin September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          5.58,
+          113.1,
+          115.8,
+          173.1,
+          71.4,
+          98.8,
+          15.5,
+          36.2,
+          25.3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Persentase Penduduk Miskin September 2014",
+      "data": [
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          9.50,
+          9.17,
+          5.26,
+          4.87,
+          4.91,
+          3.81,
           5.70,
-          5.81,
-          5.84,
-          5.86
+          1.68
         ]
       }
     ]
@@ -59,27 +101,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kabupaten Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Indeks Kedalaman Kemiskinan (P1) September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          7.85,
-          7.96,
-          8.07,
-          8.18,
-          8.20,
-          8.22
+          1.340,
+          1.350,
+          0.630,
+          0.580,
+          0.640,
+          0.870,
+          0.680,
+          0.200
         ]
       }
     ]
@@ -87,27 +134,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kabupaten Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Indeks Keparahan Kemiskinan (P2) September 2014",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          6.07,
-          6.31,
-          6.57,
-          6.65,
-          6.69,
-          6.90
+          0.280,
+          0.340,
+          0.120,
+          0.110,
+          0.130,
+          0.310,
+          0.150,
+          0.040
         ]
       }
     ]
@@ -115,27 +167,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kota Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Garis Kemiskinan(Rupiah/Kapita/Bulan) September 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          9.64,
-          9.75,
-          9.76,
-          9.82,
-          10.20,
-          10.20
+          247073,
+          228146,
+          372431,
+          232856,
+          455228,
+          323935,
+          255614,
+          433967
         ]
       }
     ]
@@ -143,27 +200,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kota Cilegon",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Jumlah Penduduk Miskin September 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          8.71,
-          8.93,
-          9.29,
-          9.60,
-          9.66,
-          9.67
+          124.4,
+          126.4,
+          191.1,
+          74.9,
+          102.6,
+          17.0,
+          40.2,
+          25.9
         ]
       }
     ]
@@ -171,27 +233,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kota Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Persentase Penduduk Miskin September 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          8.32,
-          8.39,
-          8.48,
-          8.56,
-          8.58,
-          8.59  
+          10.43,
+           9.97,
+           5.71,
+           5.09,
+           5.04,
+           4.10,
+           6.28,
+           1.69
         ]
       }
     ]
@@ -199,27 +266,65 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Kota Tangerang Selatan",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Indeks Kedalaman Kemiskinan (P1) September 2015",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          10.86,
-          10.87,
-          11.09,
-          11.48,
-          11.56,
-          11.57  
+          1.627,
+          1.501,
+          0.817,
+          0.708,
+          0.868,
+          0.442,
+          0.975,
+          0.190
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Indeks Keparahan Kemiskinan (P2) September 2015",
+      "data": [
+        "Kabupaten Pandeglang",
+        "Kabupaten Lebak",
+        "Kabupaten Tangerang",
+        "Kabupaten Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.365,
+          0.343,
+          0.176,
+          0.150,
+          0.262,
+          0.072,
+          0.259,
+          0.054
         ]
       }
     ]

@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <i class="fa fa-table" aria-hidden="true"></i> Edit Penyelesaian Tindak Pidana POLDA
+      <i class="fa fa-table" aria-hidden="true"></i> Edit Indikator Kemiskinan Kabupaten-Kota
 
       <ul class="nav nav-pills card-header-pills pull-right">
         <li class="nav-item">
