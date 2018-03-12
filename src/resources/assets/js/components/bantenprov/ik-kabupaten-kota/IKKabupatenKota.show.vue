@@ -2,7 +2,7 @@
   <div>
 
     <div class="card mb-3">
-      <div class="card-header">Grafik Produk Domestik Regional Bruto</div>
+      <div class="card-header">Grafik Indikator Kemiskinan Kabupaten-Kota</div>
       <div class="card-body">
         <echarts-ik-kabupaten-kota></echarts-ik-kabupaten-kota>
       </div><!-- /.card-body -->
